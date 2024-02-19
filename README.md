@@ -37,7 +37,7 @@ Open the app in your browser at http://localhost:8501
 
 ### Usage:
 
-### Input Video URL: Enter the YouTube video URL of interest into the designated text input field within the application.
+#### Input Video URL: Enter the YouTube video URL of interest into the designated text input field within the application.
 
 #### Generate Summary: Click the "GO!" button to initiate the summarization process. The application will then generate a summarized transcript based on the provided video URL.
 
