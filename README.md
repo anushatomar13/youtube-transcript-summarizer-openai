@@ -14,12 +14,12 @@
 
 Clone this repository:
 ```
-git clone https://github.com/G12c4/ai-youtube-summarizer.git
+git clone [[https://github.com/G12c4/ai-youtube-summarizer.git]
 ```
 
 Navigate to the repository folder and install the required packages:
 ```
-cd ai-youtube-summarizer
+cd youtube-transcript-summarizer-openai
 pip install -r requirements.txt
 ```
 
@@ -35,12 +35,12 @@ streamlit run app.py
 
 Open the app in your browser at http://localhost:8501
 
-Usage:
+### Usage:
 
-Input Video URL: Enter the YouTube video URL of interest into the designated text input field within the application.
+### Input Video URL: Enter the YouTube video URL of interest into the designated text input field within the application.
 
-Generate Summary: Click the "GO!" button to initiate the summarization process. The application will then generate a summarized transcript based on the provided video URL.
+#### Generate Summary: Click the "GO!" button to initiate the summarization process. The application will then generate a summarized transcript based on the provided video URL.
 
-Review Summary: Evaluate the summarized transcript displayed on the screen, conveniently presenting the key points and essential information extracted from the video content.
+#### Review Summary: Evaluate the summarized transcript displayed on the screen, conveniently presenting the key points and essential information extracted from the video content.
 
-YouTube Summarizer simplifies the task of extracting valuable insights from YouTube videos, empowering users to efficiently consume content and stay informed.
+#### YouTube Summarizer simplifies the task of extracting valuable insights from YouTube videos, empowering users to efficiently consume content and stay informed.
